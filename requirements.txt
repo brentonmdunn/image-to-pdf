@@ -1,0 +1,7 @@
+Deprecated==1.2.14
+img2pdf==0.5.1
+lxml==4.9.4
+packaging==23.2
+pikepdf==8.11.2
+pillow==10.2.0
+wrapt==1.16.0
